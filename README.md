@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+Реализован гитарный Интернет-магазин "GUIZNOTES".
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Сайт - полноценное приложение на React.js, включает в себя кастомных логотип (кот по имени Гизмо) и название, данные товаров находятся в json-файле,
+через который реализован сервер. С помощью Json-сервера создан моковый REST API, откуда через http-запросы вытягиваются данные.
+В ходе выполнения работы использовались доп.библиотеки и зависимости (EmailJS, Bootstrap, React Routes и т.д)
 
-## Available Scripts
+Сайт - многостраничный, header и footer на каждой странице одинаковый:
+header: название сайта, логотип и кнопки навигации по страницам;
+footer: контактные номера и информация, второй логотип.
+Сайт имеет три анимации при наведении (логотип, карточки, цена на главной странице).
 
-In the project directory, you can run:
+- сайт имеет следующие страницы и их наполнение:
 
-### `npm start`
+1. Главная: краткая информация о магазине, пикча, 10 товаров в карточках, форма обратной связи
+с отправлением сообщений на почту через EmailJS и контактная информация.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Каталог: поиск по назаванию, фильтрация по пяти категориям, все товары в карточках,
+возможность по кнопке перейти на страницу "О товаре" выбранного товара.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. О товаре: выбранная карточка с товаром и полная информация о нем,
+возможность добавить/удалить товар из корзины или избранного.
 
-### `npm test`
+4. Корзина: содержит добавленные в корзину товары, реализована возможность удаления товара из
+корзины по кнопке.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. Избранное: содержит товары, добавленные в корзину, реализована возможность
+перехода на страницу "О товаре" по кнопке.
 
-### `npm run build`
+6. Заказ: содержит в себя товары из корзины, реализована Recaptcha и форма для совершения заказа.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+7. Сайт имеет адаптивную верстку (ну почти везде..).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+p.s. было потрачено три ночи, было высказано 10 анекдотов. советую.
