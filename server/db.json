@@ -1,0 +1,162 @@
+{
+       "products": [
+         {
+           "id": 1,
+           "name": "IBANEZ GRG121DX-BKF",
+           "description": "Электрогитара, инструмент в корпусе черного матового цвета. Выполнен из тополя, гриф из клена и амаранта. Модель имеет 24 лада, 5-позиционный переключатель, два звукоснимателя.",
+           "price": "26800",
+           "imageUrl": "https://www.muztorg.ru/files/5zk/jmc/q7y/18o/ccs/00s/kks/cgw/g/5zkjmcq7y18occs00skkscgwg.jpg",
+           "type": "Электрогитара",
+           "company": "IBANEZ",
+           "form": "Superstrat",
+           "configsound": "H-H",
+           "stringscount": "6"
+         },
+         {
+           "id": 2,
+           "name": "GIBSON SG Special Vintage Cherry",
+           "description": "Электрогитара, инструмент в корпусе вишневого цвета, материал корпуса - махагони, гриф выполнен из клёна, накладка грифа - палисандр. Модель имеет 22 лада.",
+           "price": "256500",
+           "imageUrl": "https://images.musicstore.de/images/0960/gibson-sg-special-vintage-cherry_1_GIT0057242-000.jpg",
+           "type": "Электрогитара",
+           "company": "GIBSON",
+           "form": "Superstrat",
+           "configsound": "H-H",
+           "stringscount": "6"
+         },
+          {
+           "id": 3,
+           "name": "FENDER SQUIER Affinity 2021 Stratocaster MN Black",
+           "description": "Электрогитара, корпус выполнен в черном глянцевом цвете, корпус - тополь, гриф сделан из клёна.",
+           "price": "40000",
+           "imageUrl": "https://musmag.com/images/stories/virtuemart/product/4nql43lo3a0wc4scwcsw4s0w4.jpg",
+            "type": "Электрогитара",
+           "company": "FENDER",
+           "form": "Stratocaster",
+           "configsound": "S-S-S",
+           "stringscount": "6"
+         },
+          {
+           "id": 4,
+           "name": "EPIPHONE Les Paul Modern Graphite Black",
+           "description": "Электрогитара, цвет - черный металлик, корпус - махагони с кленовым топом, гриф - махагони, накладка грифа из черного дерева. Имеет 22 лада.",
+           "price": "123000",
+           "imageUrl": "https://www.muztorg.ru/files/7ix/e8g/5y1/e8s/s8g/o88/8wo/cs0/7ixe8g5y1e8ss8go888wocs00.jpeg",
+           "type": "Электрогитара",
+           "company": "EPIPHONE",
+           "form": "Les Paul",
+           "configsound": "H-H",
+           "stringscount": "6"
+         },
+         {
+           "id": 5,
+           "name": "JACKSON JS22Q-7 Dinky DKA HT Transparent Black Burst",
+           "description": "Электрогитара цвета черный берст, имеет семь струн. Гриф  выполнен из клена, с накладкой из палисандра, имеет два звукоснимателя",
+           "price": "50000",
+           "imageUrl": "https://musmag.com/images/stories/virtuemart/product/6ou0a4dba5gkk000ck84gs8wg.jpg",
+           "type": "Электрогитара",
+           "company": "JACKSON",
+           "form": "Superstrat",
+           "configsound": "H-H",
+           "stringscount": "7"
+         },
+         {
+           "id": 6,
+           "name": "FENDER PLAYER Telecaster MN Butterscotch Blonde",
+           "description": "Электрогитара, цвет кремовый, материал корпуса - ольха, гриф и накладка грифа выполнена из клена, количество ладов - 22",
+           "price": "120300",
+           "imageUrl": "https://static.sonovente.com/img/library/zoom/62/450/62152_3.jpg",
+           "form": "Telecaster"
+         },
+         {
+           "id": 7,
+           "name": "MARTINEZ FAW-702 BL",
+           "description": "Акустическая гитара, одна из самых универсальных и надежных моделей от Martinez, верхняя дека - ель , нижняя дека и обечайка - акатис, накладка - палисандр, порожек - палисандр.",
+           "price": 11300,
+           "imageUrl": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-18/391/859/929/34/100038621550b0.jpg",
+           "type": "Акустическая гитара"
+         },
+         {
+           "id": 8,
+           "name": "YAMAHA F310 Natural",
+           "description": "Акустическая гитара от YAMAHA, одна из лучших акустических гитар в своем классе. Верхняя дека, изготовленная из ели, отлично резонирует и придает звучанию яркость, объем и глубину обертонов во всем диапазоне.",
+           "price": 19990,
+           "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-d/6850208965.jpg",
+           "form": "Dreadnought",
+           "type": "Акустическая гитара"
+         },
+         {
+           "id": 9,
+           "name": "ALHAMBRA 3C",
+           "description": "Классическая гитара, выполнена из красного дерева, имеет 18 ладов и достаточно громкий звук, накладка грифа сделана из индийского палисандра",
+           "price": 70740,
+           "imageUrl": "https://mezzo-forte.ru/image/cache/catalog/product/799_1C_HT_4/4_klassicheskaya_gitara_4/4_s_chehlom_Alhambra/427f83ae_4dc8_11ec_8a9d_001e67103b79_5d69c1ff_51bd_11ec_8a9d_001e67103b79_2-1000x1000.jpg",
+           "type": "Классическая гитара",
+           "company": "ALHAMBRA"
+         },
+         {
+           "id": 10,
+           "name": "FLIGHT NUT 310",
+           "description": "Укулеле, корпус - сапеле, гриф - окоуме с палисандровой накладкой. На инструменте установлен комплект нейлоновых струн, в комплекте идёт чехол.",
+           "price": 8390,
+           "imageUrl": "https://muz2u.ru/image/cache/img_new/test/nuc-310-6-1000x1000.jpg",
+           "type": "Укулеле",
+           "company": "FLIGHT",
+           "stringscount": "Четырехструнная",
+           "form": "Концерт"
+         },
+         {
+           "id": 11,
+           "name": "ROCKDALE Stars Black Limited Edition HSS BK",
+           "description": "Электрогитара, цвет корпуса - черный. Глянцевое покрытие. Черная фурнитура. Корпус из тополя. Гриф из клена. 22 лада. Анкерный стержень. Накладка на гриф из древесно-полимерного композита.",
+           "price": 11900,
+           "imageUrl": "https://www.muztorg.ru/files/bd9/v4j/u4m/1w0/4o4/k4c/848/4ok/8/bd9v4ju4m1w04o4k4c8484ok8.jpg",
+           "form": "Stratocaster",
+           "company": "ROCKDALE",
+           "stringscount": "6"
+         },
+         {
+           "id": 12,
+           "name": "IBANEZ TCY10E-BK",
+           "description": "Электроакустическая гитара, черная модель в корпусе talman, 20 ладов. Корпус ель и махагони, гриф махагони, накладка палисандр. Звукосниматель, преамп с эквалайзером и тюнером",
+           "price": 28500,
+           "imageUrl": "https://www.muztorg.ru/files/5lh/b7e/cc9/9wc/oo8/800/o0c/g8g/o/5lhb7ecc99wcoo8800o0cg8go.jpg",
+           "company": "IBANEZ",
+           "stringscount": "6",
+           "type": "Электроакустическая гитара",
+           "form": "Folk"
+         },
+         {
+           "id": 13,
+           "name": "AIERSI STB-202B",
+           "description": "Бас-гитара, корпус - тополь, модель имеет 20 ладов, мензура 34, болченый гриф, корпус: липа, гриф из клёна, накладка изготовлена из палисандр ",
+           "price": 26100,
+           "imageUrl": "https://www.muztorg.ru/files/3k0/u94/ww0/n6s/c0w/w0o/s00/008/s/3k0u94ww0n6sc0ww0os00008s.jpg",
+           "type": "Бас-гитара",
+           "stringscount": "4",
+           "configsound": "J",
+           "company": "AIERSI"
+         },
+         {
+           "id": 14,
+           "name": "Schecter SGR C-4 BASS BLK",
+           "description": "Бас-гитара, корпус выполнен из липы, гриф из клёна, лады - 24 Medium, мензура 34",
+           "price": 33088,
+           "company": "SCHECTER",
+           "stringscount": "6",
+           "type": "Бас-гитара",
+           "imageUrl": "https://www.bigtv.ru/storage/goodsImages/115/115222/clear_115222_1.jpg"
+         },
+         {
+           "id": 15,
+           "name": "FENDER CUSTOM SHOP Limited Edition '64 Stratocaster Journeyman FASN",
+           "description": "Модель фирменной электрогитары Fender Stratocaster в стиле 1964 года, выпущенная ограниченным тиражом в рамках линейки Custom Shop, цвет релик голубой, кейс в комплекте. Корпус гитары изготовлен из легкого ольхового дерева с уникальным финишем Journeyman Relic, который придает ей изношенный и ушедший от времени вид.",
+           "configsound": "S-S-S",
+           "price": 709000,
+           "imageUrl": "https://skifmusic.ru/thumbs/d0/7a/x_1_normal_218a55d5abff3dc6bd9abb8d7178.webp",
+           "form": "Stratocaster",
+           "stringscount": "6",
+           "company": "FENDER"
+         }
+       ]
+}
